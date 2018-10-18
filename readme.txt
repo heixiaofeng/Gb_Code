@@ -1,3 +1,15 @@
+前面是用的canny检测的图片轮廓效果不是太好，这里参考使用Generalized Boundary Detection方法，效果要好很多。
+
+
+
+
+
+
+
+
+
+代码是从下面的地方参考使用的
+
 Gb code, version 1. October 4, 2012
 author: Marius Leordeanu
 
