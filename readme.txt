@@ -1,6 +1,7 @@
 前面是用的canny检测的图片轮廓效果不是太好，这里参考使用Generalized Boundary Detection方法，效果要好很多。
-
-
+![](https://github.com/heixiaofeng/Gb_Code/raw/master/cat.jpg)
+![](https://github.com/heixiaofeng/Gb_Code/raw/master/plane.jpg)
+![](https://github.com/heixiaofeng/Gb_Code/raw/master/result.png)
 
 
 
